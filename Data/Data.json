@@ -1,0 +1,26 @@
+ [
+   {
+    "id":1,
+    "name":"Coffee Milk",
+    "descrb":"Ice americano + fresh milk",
+    "price":"3m",
+    "img":"/Images/coffe.png",
+    "rating":4.9
+   },
+   {
+    "id":2,
+    "name":"Cocoa Caramel Latte",
+    "descrb":"Ice americano + fresh milk",
+    "price":"5m",
+    "img":"/Images/coffe.png",
+    "rating":4.6
+   },
+   {
+    "id":3,
+    "name":"Nitro Cold Brew",
+    "descrb":"Ice americano + cold milk",
+    "price":"4m",
+    "img":"/Images/coffe.png",
+    "rating":4.3
+   }
+ ]
